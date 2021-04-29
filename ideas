@@ -1,0 +1,59 @@
+General: 
+takes place between books 2 and three; 
+urithiru is a thing. 
+Oathgates????? Free if you are a radiant otherwise a fine?
+ITEMS DROP ON DEATH (excluding bonded shardblades)
+
+HIGHSTORMS - recharge spheres, damage people outside, deletes dropped items left outside
+
+Races: pretty much none, you pick one, such as Veden, but has no stat effect
+
+Classes: 
+    Start as peasant
+    Find a shard? -> Shardbearer
+    Get a soulcaster? -> Become a soulcaster, eventually changes physically
+    Forge a nahel bond? -> Different types of Radiant
+    Nothing yet? -> Commoner/Nobleman depending on rank
+  
+
+    Lighteyed or Darkeyed. New players start darkeyed, can create
+    a lighteyed character at presteige 100
+    
+    Nahns/Dahns: system of "societal points"
+    determine nahn, dahn. Successful trading might increase
+    or one can give thiers away to another. Obtaining a shard 
+    instantly buffs it.
+    (Start at 0 points)
+
+Radiants:
+    Need stomrlight, they feed from spheres in the inventory, which each have a stormlight attribute
+    A good source of gems could be gemhearts from the plains, but in order to get those you need 
+    a bridge, so you have to work together with friends to carry it.
+
+    On becoming a radiant, they become lighteyed.
+
+
+System of Tags:
+
+    Item Tags:
+        SHARDBLADE_RESISTANT - Resistant to shardblades, but they can still damage them (like shardplate)
+        SHARDBLADE_IMMUNE - <- read bro
+        SOULCASTED - ^
+        LIGHT - Provides light
+
+    Room Tags:
+        INDOORS - For dealing with highstorms
+
+
+Currency:
+    Base currency is the diamond chip
+    
++----------------------------------------------------------------------------+
+|   Type        |  Chips            | Marks             | Broams             |
++============================================================================+
+|    Diamond    | 1 diamond chip 	| 5 diamond chips 	| 20 diamond chips   |
+|    Garnet 	| 5 diamond chips 	| 25 diamond chips 	| 100 diamond chips  |
+|    Ruby 	    | 10 diamond chips 	| 50 diamond chips 	| 200 diamond chips  |
+|    Sapphire 	| 25 diamond chips 	| 125 diamond chips | 500 diamond chips  |
+|    Emerald 	| 50 diamond chips 	| 250 diamond chips | 1000 diamond chips |
++----------------------------------------------------------------------------+

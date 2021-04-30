@@ -1,7 +1,7 @@
 General: 
 takes place between books 2 and three; 
 urithiru is a thing. 
-Oathgates????? Free if you are a radiant otherwise a fine?
+Oathgates????? Free if you are a radiant otherwise a fine? 
 ITEMS DROP ON DEATH (excluding bonded shardblades)
 
 HIGHSTORMS - recharge spheres, damage people outside, deletes dropped items left outside
@@ -44,16 +44,121 @@ System of Tags:
     Room Tags:
         INDOORS - For dealing with highstorms
 
+Combat: twitch system
+
 
 Currency:
     Base currency is the diamond chip
-    
+    dun spheres worth 75%, moneychanging a thing?
+
 +----------------------------------------------------------------------------+
-|   Type        |  Chips            | Marks             | Broams             |
+|    Type       |  Chips            | Marks             | Broams             |
 +============================================================================+
-|    Diamond    | 1 diamond chip 	| 5 diamond chips 	| 20 diamond chips   |
-|    Garnet 	| 5 diamond chips 	| 25 diamond chips 	| 100 diamond chips  |
-|    Ruby 	    | 10 diamond chips 	| 50 diamond chips 	| 200 diamond chips  |
+|    Diamond    | 1 diamond chip    | 5 diamond chips 	| 20 diamond chips   |
+|    Garnet     | 5 diamond chips   | 25 diamond chips 	| 100 diamond chips  |
+|    Ruby       | 10 diamond chips 	| 50 diamond chips 	| 200 diamond chips  |
 |    Sapphire 	| 25 diamond chips 	| 125 diamond chips | 500 diamond chips  |
-|    Emerald 	| 50 diamond chips 	| 250 diamond chips | 1000 diamond chips |
+|    Emerald    | 50 diamond chips 	| 250 diamond chips | 1000 diamond chips |
 +----------------------------------------------------------------------------+
+
+Statistics:
+    Strength
+    Endurance
+    Intelligence
+    Wisdom
+
+    Hp/Max HP 
+    Armor class
+
+Skills:
+    Add bonuses to scores
+
+    Spears
+    Swords (lighteyed only?)
+    Daggers
+    Axes
+
+    Stealth
+    Perception
+
+Radiants:
+    Windrunners
+        Honorspren
+        - Adhesion
+        - Gravitation
+        Squires?
+        Shardblade at 3rd Ideal
+        Shardplate at 4th Ideal
+
+    Skybreakers
+        Highspren
+        - Gravitation
+        - Division
+        Squires?
+        Unlock Division at 3rd Ideal - Makes full skybreaker
+        Unlock shards same as windrunners? CONFIRM
+
+    Dustbringers (Releasers)
+        Ashspren
+        - Division
+        - Abrasion
+        Squires?
+        Unlock shards same as windrunners? CONFIRM
+
+    Edgedancers
+        Cultivationspren
+        - Abrasion
+        - Progression
+        Unlock shards same as windrunners? CONFIRM
+
+    Truthwatchers
+        Mistspren
+        - Progression
+        - Illumination
+        Unlock shards same as windrunners? CONFIRM
+
+    Lightweavers
+        Liespren (Cryptics)
+        - Illumination
+        - Transformation
+        Squires?
+        Speaking Truths to advance? how?
+        Unlock shards same as windrunners? CONFIRM
+        ^ Doesn't make sense because Shallan killed her mom
+            with it.
+
+    Elsecallers
+        Inkspren
+        - Transformation
+        - Transportation
+        Unlock shards same as windrunners? CONFIRM
+
+
+    Willshapers
+        Lightspren
+        - Transportation
+        - Cohesion
+        Unlock shards same as windrunners? CONFIRM
+
+
+    Stonewards
+        Peakspren
+        - Cohesion
+        - Tension
+         Unlock shards same as windrunners? CONFIRM
+
+    Bondsmith (Not playable)
+     Squires?
+
+Surges:
+    - Adhesion
+    - Gravitation
+    - Division
+    - Abrasion
+    - Progression
+    - Illumination
+    - Transformation
+    - Transportation
+        Transportation in and out of Shadesmar
+    - Cohesion
+    - Tension
